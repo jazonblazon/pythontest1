@@ -14,4 +14,6 @@ a2=b.b2(2.) #2.+1.+2.+5.= 10.
 print('firsting',a1,a2)
 
 a2=b.b1(2.) #2.+1.+2.+5.= 10.
-print('second',a1,a2)
+print('seconding',a1,a2)
+
+import numpy as np
